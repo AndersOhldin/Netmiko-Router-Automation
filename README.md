@@ -1,4 +1,4 @@
-# Netmiko-Router-Automation
+# Router-Automation
 Still a work in progress...
 
 Client loads in a specified configuration file, collects destination information and connects to the server, then sends the encrypted data. 
